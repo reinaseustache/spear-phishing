@@ -3,7 +3,10 @@ Dear netwrok user,
 This email is meant to inform you that your network password will 
 expire in 24 hours. 
 
-Please follow the link below to update your password. 
+Please follow the link belowe to update your pasword. 
+
+This is the second notification that we are sending to you.
+This is urgent!
 
 
 Thank you.
