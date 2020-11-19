@@ -3,6 +3,12 @@ Contact Person:
 General Auditor
 E-mail:
 
+Dear Customer
+
+For your security access to Online Banking has been locked because the number
+of attempts to sign in exceeded the number allowed. To regain access, you
+must update your account. 
+
 Provide the following information below ot the bank for processing and remittance of your payment.
 Full name: 
 Age:
